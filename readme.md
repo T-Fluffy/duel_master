@@ -5,7 +5,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Containers-%232496ED?logo=docker)](https://www.docker.com/)
 
 > **Current Phase**: Backend in development (Frontend coming soon as well!)  
-> A robust card game engine for Duel Masters, featuring real-time multiplayer via WebSocket and containerized microservices.
+> A robust card game engine for Duel Masters, featuring real-time multiplayer via WebSocket and containerized microservices. The project development is still in progress while trying to refresh my spring boot knowledges creating a cool project to work with. 
 
 
 ## 🚀 Implemented Features
